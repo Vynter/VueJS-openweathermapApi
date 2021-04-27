@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-    <h1 class="my-4">App météo avec Vue js</h1>
+    <h1 class="my-4 text-center ">Weather App - Vue js</h1>
     <div class="form-groupe mb-5">
       <label for="position">Entrez le nom d'une ville</label>
       <input
