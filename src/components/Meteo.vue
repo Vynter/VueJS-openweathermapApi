@@ -14,7 +14,7 @@
     </div>
     <div class="w-75 m-auto" v-if="temps">
       <h3 class="text-center mb-3">Position : {{ temps.name }}</h3>
-      <div class="card text-center p-5">
+      <div class="card text-center p-5" style="border-radius:10px">
         <p class="texte-affichage">
           Temperature : {{ temps.main.temp.toFixed() }}°
         </p>
